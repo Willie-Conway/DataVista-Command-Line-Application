@@ -2,7 +2,6 @@
 
 ![DatVista](https://github.com/Willie-Conway/DataVista-App/blob/62b22806b37009186f100531f50769ed98517397/assets/DataVista.png)
 
-[![CI](https://github.com/Willie-Conway/DataVista-Command-Line-Application/actions/workflows/ci.yml/badge.svg)](https://github.com/Willie-Conway/DataVista-Command-Line-Application/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -10,7 +9,12 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
 ## 🚀 Overview
+[![CI](https://github.com/Willie-Conway/DataVista-Command-Line-Application/actions/workflows/ci.yml/badge.svg)](https://github.com/Willie-Conway/DataVista-Command-Line-Application/actions/workflows/ci.yml)
+
+<br>
 <p float="left">
+    <img src="https://github.com/Willie-Conway/DataVista-Command-Line-Application/blob/6014af7efb2725366b57d49e5a97a8a46bfedfdc/image/Pie%20Chart.png" width="200" />
+    <img src="https://github.com/Willie-Conway/DataVista-Command-Line-Application/blob/6014af7efb2725366b57d49e5a97a8a46bfedfdc/image/Bar%20Chart%20(2).png" width="200" />
     <img src="https://github.com/Willie-Conway/DataVista-Command-Line-Application/blob/main/image/DataVisa%20Menu%20Options.png" width="200" />
     <img src="https://github.com/Willie-Conway/DataVista-Command-Line-Application/blob/main/image/Detailed%20analysis%20for%20numeric%20column%20price.png" width="200" />
     <img src="https://github.com/Willie-Conway/DataVista-Command-Line-Application/blob/main/image/Performing%20a%20Statistical%20Analysis.png" width="200" />
