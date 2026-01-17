@@ -1076,7 +1076,7 @@ docker run -v $(pwd)/data:/app/data datavista:latest \
 ✅ **Production-Ready** error handling and logging  
 ✅ **Extensive Documentation** with code walkthroughs  
 
-## 🤝 Contributing
+## 🤝🏾 Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md):
 
